@@ -1,5 +1,10 @@
 ### Hello there! I'm Michelle 💻
 
+<img src="{Badge}" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-kyalo/)](https://www.linkedin.com/in/michelle-kyalo/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitchel.muendi@gmail.com)](mailto:mitchel.muendi@gmail.com)
+
 
 
 <!--
