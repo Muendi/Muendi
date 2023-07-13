@@ -1,12 +1,11 @@
 ### Hello there! I'm Michelle 💻
 
-<img src="{Badge}" />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-kyalo/)](https://www.linkedin.com/in/michelle-kyalo/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/michelle-kyalo/)](https://www.linkedin.com/in/michelle-kyalo/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:mitchel.muendi@gmail.com)](mailto:mitchel.muendi@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitchel.muendi@gmail.com)](mailto:mitchel.muendi@gmail.com)
-
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div> 
 <!--
 **Muendi/Muendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
