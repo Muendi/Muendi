@@ -1,4 +1,6 @@
-### Hi, I'm Michelle 💻
+### Hello there! I'm Michelle 💻
+
+
 
 <!--
 **Muendi/Muendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
